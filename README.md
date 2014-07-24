@@ -7,6 +7,8 @@ The algorithm is desribed in detail in [1].
 [1] R. Achanta, A. Shaji, K. Smith, A. Lucchi, P. Fua, S. Süusstrunk. SLIC Superpixels. Technical
 report, EPFL, Lausanne, 2010.
 
+Have a look at my blog article ybout VLFeat's SLIC implementation: [http://davidstutz.de/running-vlfeats-slic-superpixels-using-cmake-c/](http://davidstutz.de/running-vlfeats-slic-superpixels-using-cmake-c/)
+
 ## Requirements
 
 * Build essentials: `sudo apt-get install build-essential`
