@@ -41,6 +41,10 @@ Make sure that `Lenna.png` is present in the root directory (or the directory fr
 
 # License
 
+VLFeat is distributed under the BSD license, see [https://github.com/vlfeat/vlfeat](https://github.com/vlfeat/vlfeat).
+
+For license details of `Lenna.png`, see [http://en.wikipedia.org/wiki/Lenna#mediaviewer/File:Lenna.png](http://en.wikipedia.org/wiki/Lenna#mediaviewer/File:Lenna.png).
+
 Copyright 2014 David Stutz
 
 The application is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
