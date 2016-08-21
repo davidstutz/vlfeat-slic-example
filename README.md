@@ -1,5 +1,7 @@
 # Using VLFeat's SLIC from C++
 
+[![Build Status](https://travis-ci.org/davidstutz/vlfeat-slic-example.svg?branch=master)](https://travis-ci.org/davidstutz/vlfeat-slic-example)
+
 This project is a simple example of how to use [VLFeat](http://www.vlfeat.org/)'s "Simple Linear Iterative Clustering" (SLIC) implementaiton from C++.
 
 The algorithm is desribed in detail in [1].
